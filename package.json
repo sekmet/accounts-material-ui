@@ -3,21 +3,21 @@
   "description": "Material-UI - Accounts UI for React in Meteor",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Zetoff/accounts-material-ui"
+    "url": "https://github.com/sekmet/accounts-material-ui"
   },
   "keywords": [
     "react",
     "meteor",
     "accounts",
     "tracker",
-		"material-ui"
+    "material-ui"
   ],
   "author": "Zetoff",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Zetoff/accounts-material-ui/issues"
+    "url": "https://github.com/sekmet/accounts-material-ui/issues"
   },
-  "homepage": "https://github.com/Zetoff/accounts-material-ui",
+  "homepage": "https://github.com/sekmet/accounts-material-ui",
   "dependencies": {
     "react": "^15.x",
     "react-dom": "^15.x",
